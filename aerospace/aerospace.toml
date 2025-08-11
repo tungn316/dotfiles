@@ -148,12 +148,14 @@ alt-1 = 'workspace 1'
 alt-2 = 'workspace 2'
 alt-4 = 'workspace 3'
 alt-5 = 'workspace 4'
+alt-6 = 'workspace 5'
 
 # See: https://nikitabobko.github.io/AeroSpace/commands#move-node-to-workspace
 alt-shift-1 = 'move-node-to-workspace 1 --focus-follows-window'
 alt-shift-2 = 'move-node-to-workspace 2 --focus-follows-window'
 alt-shift-4 = 'move-node-to-workspace 3 --focus-follows-window'
 alt-shift-5 = 'move-node-to-workspace 4 --focus-follows-window'
+alt-shift-6 = 'move-node-to-workspace 5 --focus-follows-window'
 
 alt-tab = 'workspace-back-and-forth'
 alt-shift-tab = 'move-workspace-to-monitor --wrap-around next'
@@ -166,6 +168,7 @@ alt-s = 'exec-and-forget open -a /Applications/Spotify.app'
 alt-g = 'exec-and-forget open -a /Applications/Google\ Chrome.app'
 alt-w = 'exec-and-forget open -a /Applications/WezTerm.app'
 alt-o = 'exec-and-forget open -a /Applications/Microsoft\ Outlook.app'
+alt-d = 'exec-and-forget open -a /Applications/Discord.app'
 
 # 'service' binding mode declaration.
 # See: https://nikitabobko.github.io/AeroSpace/guide#binding-modes
@@ -179,7 +182,11 @@ f = [
 backspace = ['close-all-windows-but-current', 'mode main']
 
 [mode.apps.binding]
-alt-w = ['exec-and-forget open -a /Applications/WezTerm.app', 'mode main']
+alt-w = ['exec-and-forget open -n /Applications/WezTerm.app', 'mode main']
+alt-g = [
+  'exec-and-forget open -n /Applications/Google\ Chrome.app',
+  'mode main',
+]
 
 [workspace-to-monitor-force-assignment]
 1 = '^Built-in.*$'

@@ -1,4 +1,4 @@
-after-startup-command = ['exec-and-forget sketchybar']
+#after-startup-command = ['']
 
 # Notify Sketchybar about workspace change
 exec-on-workspace-change = [
@@ -9,7 +9,7 @@ exec-on-workspace-change = [
 ]
 
 # Start AeroSpace at login
-start-at-login = false
+start-at-login = true
 
 # Normalizations. See: https://nikitabobko.github.io/AeroSpace/guide#normalization
 enable-normalization-flatten-containers = true
@@ -62,7 +62,7 @@ if.app-name-regex-substring = 'camera'
 run = 'layout floating'
 
 [[on-window-detected]]
-if.app-name-regex-substring = 'dicord'
+if.app-name-regex-substring = 'discord'
 run = 'layout floating'
 
 # Possible values: (qwerty|dvorak)
@@ -78,12 +78,12 @@ preset = 'qwerty'
 #                 Monitor pattern is the same as for 'workspace-to-monitor-force-assignment'.
 #                 See: https://nikitabobko.github.io/AeroSpace/guide#assign-workspaces-to-monitors
 [gaps]
-inner.horizontal = 20
-inner.vertical = 20
-outer.left = 20
-outer.bottom = 20
-outer.top = 10
-outer.right = 80
+inner.horizontal = 5
+inner.vertical = 10
+outer.left = 5
+outer.bottom = 5
+outer.top = 5
+outer.right = 5
 
 # 'main' binding mode declaration
 # See: https://nikitabobko.github.io/AeroSpace/guide#binding-modes

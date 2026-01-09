@@ -10,6 +10,10 @@ eval "$(fzf --zsh)"
 export STARSHIP_CONFIG="$HOME/.config/starship/starship.toml"
 eval "$(starship init zsh)"
 
+# ---- Fastfetch -----
+
+fastfetch
+
 # ---- Syntax highlighting -----
 source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 

@@ -169,10 +169,11 @@ alt-shift-semicolon = 'mode service'
 alt-shift-enter = 'mode apps'
 
 alt-s = 'exec-and-forget open -a /Applications/Spotify.app'
-alt-g = 'exec-and-forget open -a /Applications/Google\ Chrome.app'
+alt-g = 'exec-and-forget open -a /Applications/Brave\ Browser.app'
 alt-w = 'exec-and-forget open -a /Applications/WezTerm.app'
 alt-o = 'exec-and-forget open -a /Applications/Microsoft\ Outlook.app'
 alt-d = 'exec-and-forget open -a /Applications/Discord.app'
+alt-f = 'exec-and-forget open -a /System/Library/CoreServices/Finder.app'
 
 # 'service' binding mode declaration.
 # See: https://nikitabobko.github.io/AeroSpace/guide#binding-modes

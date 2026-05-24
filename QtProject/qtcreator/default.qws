@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorSession>
+<!-- Written by QtCreator 18.0.1, 2026-04-28T09:34:36. -->
+<qtcreator>
+ <data>
+  <variable>AutoTest.MessageFilter</variable>
+  <valuelist type="QVariantList">
+   <value type="int">4</value>
+   <value type="int">0</value>
+   <value type="int">10</value>
+   <value type="int">5</value>
+   <value type="int">22</value>
+   <value type="int">21</value>
+   <value type="int">2</value>
+   <value type="int">14</value>
+   <value type="int">11</value>
+   <value type="int">13</value>
+   <value type="int">6</value>
+   <value type="int">12</value>
+   <value type="int">9</value>
+   <value type="int">8</value>
+   <value type="int">15</value>
+   <value type="int">7</value>
+   <value type="int">1</value>
+   <value type="int">20</value>
+   <value type="int">16</value>
+   <value type="int">3</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>AutoTest.ShowDurations</variable>
+  <value type="bool">true</value>
+ </data>
+ <data>
+  <variable>CascadeSetActive</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>Color</variable>
+  <value type="QString">#666666</value>
+ </data>
+ <data>
+  <variable>DeployProjectDependencies</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>EditorSettings</variable>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNQAAAAAAAAAAAAAACQAAAAVlbXB0eQAAAAA=</value>
+ </data>
+ <data>
+  <variable>ProjectDependencies</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>ProjectList</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">/Users/tung/exchange/cis4600/mini-minecraft/assignment_package/miniMinecraft.pro</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>StartupProject</variable>
+  <value type="QString">/Users/tung/exchange/cis4600/mini-minecraft/assignment_package/miniMinecraft.pro</value>
+ </data>
+ <data>
+  <variable>value-ActiveMode</variable>
+  <value type="QString">Edit</value>
+ </data>
+ <data>
+  <variable>value-Breakpoints</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-DebuggerSeparateWidgetGeometry</variable>
+  <value type="QRect">100x30+0+0</value>
+ </data>
+ <data>
+  <variable>value-DefaultFormats</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-Find</variable>
+  <valuemap type="QVariantMap">
+   <valuemap type="QVariantMap" key="AdvancedSearch">
+    <valuemap type="QVariantMap" key="Files on Disk">
+     <value type="bool" key="GitGrepRecurse">false</value>
+    </valuemap>
+   </valuemap>
+   <valuemap type="QVariantMap" key="FindCompletions">
+    <valuelist type="QVariantList" key="Flags">
+     <value type="int">0</value>
+     <value type="int">0</value>
+     <value type="int">0</value>
+     <value type="int">0</value>
+    </valuelist>
+    <valuelist type="QVariantList" key="Text">
+     <value type="QString">find</value>
+     <value type="QString">cannot</value>
+     <value type="QString">scene</value>
+     <value type="QString">linker</value>
+    </valuelist>
+   </valuemap>
+  </valuemap>
+ </data>
+ <data>
+  <variable>value-IndividualFormats</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-ProjectTree.ExpandData</variable>
+  <valuelist type="QVariantList">
+   <valuelist type="QVariantList">
+    <value type="QString">/Users/tung/exchange/cis4600/mini-minecraft/assignment_package</value>
+    <value type="int">200000</value>
+    <value type="QString">miniMinecraft</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/Users/tung/exchange/cis4600/mini-minecraft/assignment_package/glsl.qrc</value>
+    <value type="int">100000</value>
+    <value type="QString">glsl.qrc</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/Users/tung/exchange/cis4600/mini-minecraft/assignment_package/src/src.pri</value>
+    <value type="int">400000</value>
+    <value type="QString">src</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/Users/tung/exchange/cis4600/mini-minecraft/assignment_package</value>
+    <value type="int">299998</value>
+    <value type="QString">Forms</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/Users/tung/exchange/cis4600/mini-minecraft/assignment_package</value>
+    <value type="int">299996</value>
+    <value type="QString">Resources</value>
+   </valuelist>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.Categories</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Task.Category.QmlAnalysis</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.IncludeWarnings</variable>
+  <value type="bool">true</value>
+ </data>
+ <data>
+  <variable>value-Watchers</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>valueKeys</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">ActiveMode</value>
+   <value type="QString">Breakpoints</value>
+   <value type="QString">DebuggerSeparateWidgetGeometry</value>
+   <value type="QString">DefaultFormats</value>
+   <value type="QString">Find</value>
+   <value type="QString">IndividualFormats</value>
+   <value type="QString">ProjectTree.ExpandData</value>
+   <value type="QString">TaskWindow.Categories</value>
+   <value type="QString">TaskWindow.IncludeWarnings</value>
+   <value type="QString">Watchers</value>
+  </valuelist>
+ </data>
+</qtcreator>
